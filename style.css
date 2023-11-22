@@ -1,12 +1,51 @@
-body{
-    background-color: aqua;
+body {
+  background-color: aquamarine;
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
 }
 
-
-
-*{
-    margin: ;
-    padding: ;
-    box-sizing: border-box;
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
 }
 
+nav {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: #090909;
+  font-weight: bold;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+nav a:hover {
+  color: aquamarine;
+}
+
+section {
+  padding: 20px;
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  border:;
+}

@@ -1,0 +1,3 @@
+const majorMuscleGroupsVideo=https://www.youtube.com/watch?v=58gI3jXNnPI
+
+const majorMuscleGroupimg=https://www.google.com/search?q=muscle+groups+of+the+body&tbm=isch&ved=2ahUKEwigm4TAzsuCAxWqAWIAHdZ5APoQ2-cCegQIABAA&oq=muscle+groups&gs_lcp=CgNpbWcQARgDMggIABCABBCxAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgYIABAHEB5Q7RhY7DpgrF5oAHAAeACAAbsBiAH-CZIBAzkuNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=JapXZeD0N6qDiLMP1vOB0A8&bih=731&biw=1440#imgrc=dfXvZ_JUd0IehM
